@@ -18,7 +18,7 @@ The calculator works as follows :
   
   9-show result on the user interface.
   
-This calculator isn't fully complete the following issues that it has are :
+This calculator isn't fully complete the issues that it has are :
 
   -can't process negative value can give negative results just can't process them cause of the rules put to take a readable expression.
 	 
