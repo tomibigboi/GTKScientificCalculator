@@ -1,7 +1,7 @@
 **The calculator works as follows :
   1-show a user interface.
   2-read user input or clicks.
-	3-with each click check if the clicked button is acceptable according to conditions, for example "1++" can't be accepted or more like it can't happen since such sequence of clicks won't be allowed.  
+  3-with each click check if the clicked button is acceptable according to conditions, for example "1++" can't be accepted or more like it can't happen since such sequence of clicks won't be allowed.  
   4-when user presses enter or '=' clean the expression by adding ')' to the end of the expression.
   5-tokenize the expression, like this : {"exp","(","55","+","1","/","36",")"}
   6-change the expression from a infix form "a+b" to postfix form "ab+" using the shunting-yard algorithm.
